@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Connor Kippes, I am a UA trained computer scientist with full stack experience and a passion for front end design.
+My name is Connor Kippes, I am a UA trained software developer with full stack experience and a passion for learning.
 
 
 - 🔭 I’m currently working on [Creative Canvas](https://kaseycreativecanvas.com), a website for a client to showcase and sell artwork.
