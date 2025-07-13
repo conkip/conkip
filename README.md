@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello 👋
 
+My name is Connor Kippes, I am a UA trained computer scientist
+
+- 🔭 I’m currently working on [Creative Canvas](https://kaseycreativecanvas.com), a website for a business to showcase and sell artwork.
+- 🌱 I’m currently learning <img width="238" height="212" alt="image" src="https://github.com/user-attachments/assets/5e004de6-1585-460e-9a67-bc65a6d9a2d3" /> React
+ and <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/889b89fe-de55-4bb2-9165-46333d8dac88" /> SpringBoot
+- 📫 How to reach me: connorkippes1@gmail.com
 <!--
 **conkip/conkip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
