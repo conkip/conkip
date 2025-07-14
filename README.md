@@ -2,7 +2,8 @@
 
 My name is Connor Kippes, I am a UA trained software developer with full stack experience and a passion for front end design as well as backend logic.
 I get inveseted in all the work I do and I love learning new technologies and methodologies.
-I primarily work with java <img width="25.5" height="18" alt="image" src="https://github.com/user-attachments/assets/8db7e3a6-2a3b-4d77-ba86-7dfc6793b3c9" />
+I primarily work with java <img width="14.8" height="20" alt="image" src="https://github.com/user-attachments/assets/e56f8604-0ac6-4f30-9863-410619ea57be" />
+
 and javascript
 
 
