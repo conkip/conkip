@@ -1,7 +1,9 @@
 ## Hello 👋
 
 My name is Connor Kippes, I am a UA trained software developer with full stack experience and a passion for front end design as well as backend logic.
-I love learning new technologies and methodologies, and getting inveseted in all the work I do.
+I get inveseted in all the work I do and I love learning new technologies and methodologies.
+I primarily work with java <img width="25.5" height="18" alt="image" src="https://github.com/user-attachments/assets/8db7e3a6-2a3b-4d77-ba86-7dfc6793b3c9" />
+and javascript
 
 
 - 🔭 I’m currently working on [Creative Canvas](https://kaseycreativecanvas.com), a website for a client to showcase and sell artwork.
