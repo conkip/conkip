@@ -3,7 +3,7 @@
 My name is Connor Kippes, I am a UA trained software developer with full stack experience and a passion for front end design as well as backend logic.
 I get inveseted in all the work I do and I love learning new technologies and methodologies.<br>
 
-Also, my git commit history got mostly wiped when I deleted an email of my account 🪦.<br>
+Also, my git commit history got mostly wiped when I deleted an email off my account 🪦.<br>
 
 
 - 🔭 I’m currently working on [Creative Canvas](https://kaseycreativecanvas.com), a website for a client to showcase and sell artwork.
