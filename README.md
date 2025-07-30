@@ -7,7 +7,7 @@ Also, my git commit history got mostly wiped when I deleted an email off my acco
 
 
 - 🔭 I’m currently working on [Creative Canvas](https://kaseycreativecanvas.com), a website for a client to showcase and sell artwork.
-- 📱 I recently built AR Wizard, an iOS app which is now on the apple appstore! Check it out [here](https://github.com/lukelaurie/AR-Wizard-Game).
+- 📱 I recently built AR Wizard, an iOS app which is now on the apple appstore! Check it out [here](https://apps.apple.com/us/app/ar-wizard/id6737245994).
 - 📫 How to reach me: connorkippes1@gmail.com
 - ⚡ Fun fact: I play tennis 🎾
 <!--
