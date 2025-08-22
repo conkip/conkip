@@ -7,9 +7,7 @@ Currently my focus is on <img width="22" height="20" alt="image" src="https://gi
 
 <u>Also, my git commit history got mostly wiped when I deleted an email from my account 🪦.</u>
 
-
 <br>
-
 
 - 🔭 I’m currently working on a React website [Connor's Games](https://github.com/conkip/Boardgame-Website) where I am developing some boardgame tools and playable webgames of some of my favorite boardgames.
 - 🎨 I recently finished [Creative Canvas](https://kaseycreativecanvas.com), a website for a client to showcase and sell artwork.
