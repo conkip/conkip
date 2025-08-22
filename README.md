@@ -9,7 +9,7 @@ Currently my focus is on <img width="22" height="20" alt="image" src="https://gi
 
 <br>
 
-- 🔭 I’m currently working on a React website called [Connor's Games](https://github.com/conkip/Boardgame-Website) where I am developing some boardgame tools and playable webgames of some of my favorite boardgames.
+- 🔭 I’m currently working on a React website called [Connor's Games](https://github.com/conkip/Boardgame-Website) where I am developing some boardgame tools and playable versions of some of my favorite boardgames.
 - 🎨 I recently finished [Creative Canvas](https://kaseycreativecanvas.com), a website for a client to showcase and sell artwork.
 - 📱 I also just released a super fun multiplayer AR iOS app, which is now on apple appstore! Check it out [here](https://apps.apple.com/us/app/ar-wizard/id6737245994).
 - 📫 How to reach me: 📧 connorkippes1@gmail.com 📞 (480) 465-3241
