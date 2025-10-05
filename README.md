@@ -1,10 +1,14 @@
 ## Hello 👋
 
-My name is Connor Kippes, I am a University of Arizona Computer Science Graduate with full-stack experience and a passion for making seamless user experiences.<br>
+My name is Connor Kippes, and I am a recent UofA graduate with a passion for creating amazing user experiences and working on both the frontend and backend of websites. Feel free to contact me with any business propositions!<br>
 
-Currently my focus is on <img width="22" height="20" alt="image" src="https://github.com/user-attachments/assets/5e004de6-1585-460e-9a67-bc65a6d9a2d3" /> React and <img width="20" height="20" alt="typescript" src="https://github.com/user-attachments/assets/c0c07292-920f-430e-9e5b-fae08cd5e2c3" /> Typescript.
+Currently my focus is on <img width="22" height="20" alt="image" src="https://github.com/user-attachments/assets/5e004de6-1585-460e-9a67-bc65a6d9a2d3" /> React, <img width="20" height="20" alt="typescript" src="https://github.com/user-attachments/assets/c0c07292-920f-430e-9e5b-fae08cd5e2c3" /> Typescript, and <img width="20" height="20" alt="java_icon" src="https://github.com/user-attachments/assets/7c3371ea-b6cf-4e56-ae00-3f113329c2d1" /> Java.<br>
+
+email: connorkippes1@gmail.com<br>
+phone: (480) 465-3241<br>
 
 <u>Also, my git commit history got mostly wiped when I deleted an email from my account 🪦.</u>
+
 
 <br>
 
