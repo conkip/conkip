@@ -15,7 +15,6 @@ phone: (480) 465-3241<br>
 - 🔭 I’m currently working on a React website called [Connor's Games](https://www.connorsgames.com/) where I am developing some boardgame tools and playable versions of some of my favorite boardgames.
 - 🎨 I recently finished [Creative Canvas](https://kaseycreativecanvas.com), a website for a client to showcase and sell artwork.
 - 📱 I also just released a super fun multiplayer AR iOS app, which is now on apple appstore! Check it out [here](https://apps.apple.com/us/app/ar-wizard/id6737245994).
-- 📫 How to reach me: 📧 connorkippes1@gmail.com 📞 (480) 465-3241
 - ⚡ Fun fact: I play tennis 🎾
 
 <!-- I'm going to learn <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/889b89fe-de55-4bb2-9165-46333d8dac88" /> SpringBoot next!-->
